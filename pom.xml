@@ -335,7 +335,7 @@
         <jackson.version>2.7.4</jackson.version>
 
         <flyway.version>3.2.1</flyway.version>
-        <db-util.version>0.0.1</db-util.version>
+        <db-util.version>1.0.7</db-util.version>
 
         <junit.version>4.12</junit.version>
     </properties>
